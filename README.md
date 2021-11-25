@@ -1,6 +1,6 @@
 # Hi, This is Julian 👋
 
-I'm detail-oriented fullstack developer with 8+ years of expertise working on web application development and blockchain systems.
+I'm detail-oriented fullstack developer with 8+ years of expertise working on web application development and 3+ years on blockchain systems.
 I am looking for a way to further develop my skills in this area and looking for an organization that will give me a brand new challenge in a fast paced environment.
 I am ready to start your project immediately. While working with me, you will be satisfied with my skills.
 
