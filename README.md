@@ -3,6 +3,12 @@
 I'm detail-oriented fullstack developer with 8+ years of expertise working on web application development and blockchain systems.
 I am looking for a way to further develop my skills in this area and looking for an organization that will give me a brand new challenge in a fast paced environment.
 
+🔭 I am ready to start your project immediately.
+🌱 Frontend : React.js, Next.js, Gatsby.js, Bootstrap, TailwindCSS
+👨‍💻 Backend : PHP / Laravel, CI, Node.js / Express, Python / Django, graphQL, goLang
+⚡ Blockchain: Ethereum, Solidity, Smart Contracts, NFT, Trading, DEX / DEFI 
+💬 Database : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
+📫 Languages : JavaScript, TypeScript, HTML, CSS, PHP, Python
 <!--
 **julianstore/julianstore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
