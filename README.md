@@ -5,7 +5,7 @@ I am looking for a way to further develop my skills in this area and looking for
 I am ready to start your project immediately. While working with me, you will be satisfied with my skills.
 
 ### My skills are bleow;
-- 🌱 Frontend : React.js, Next.js, Gatsby.js, Bootstrap, TailwindCSS
+- 🌱 Frontend : Angular2+, React.js, Next.js, Gatsby.js, Bootstrap, TailwindCSS
 - 👨‍💻 Backend : PHP / Laravel, CI, Node.js / Express, Python / Django, graphQL, goLang
 - ⚡ Blockchain: Ethereum, Solidity, Smart Contracts, NFT, Trading, DEX / DEFI 
 - 💬 Database : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
