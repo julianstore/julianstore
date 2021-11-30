@@ -1,11 +1,11 @@
-# Hi, This is Julian 👋
+# Hi! 👋
 
 I'm detail-oriented fullstack developer with 8+ years of expertise working on web application development and 3+ years on blockchain systems.
 I am looking for a way to further develop my skills in this area and looking for an organization that will give me a brand new challenge in a fast paced environment.
 I am ready to start your project immediately. While working with me, you will be satisfied with my skills.
 
 ### My skills are bleow;
-- 🌱 Frontend : Angular2+, React.js, Next.js, Gatsby.js, Bootstrap, TailwindCSS
+- 🌱 Frontend : React.js, Next.js, Angular2+, Gatsby.js, Bootstrap, TailwindCSS
 - 👨‍💻 Backend : PHP / Laravel, CI, Node.js / Express, Python / Django, graphQL, goLang
 - ⚡ Blockchain: Ethereum, Solidity, Smart Contracts, NFT, Trading, DEX / DEFI 
 - 💬 Database : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
