@@ -13,7 +13,9 @@ I am ready to start your project immediately. While working with me, you will be
 
 ### Connect with me;
 - Skype: live:.cid.acea30d8816fac1b
-- Discrod: NinjaDev#4470
+- Discrod: dreamdev217#4470
+
+
 <!--
 **julianstore/julianstore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
