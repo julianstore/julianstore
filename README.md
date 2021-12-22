@@ -14,6 +14,7 @@ I am ready to start your project immediately. While working with me, you will be
 ### Connect with me;
 - Skype: live:.cid.acea30d8816fac1b
 - Discrod: dreamdev217#4470
+- Telegram: dreamdev217
 
 
 <!--
