@@ -7,7 +7,7 @@ I am ready to start your project immediately. While working with me, you will be
 ### My skills are bleow;
 - 🌱 Frontend : React.js, Next.js, Angular2+, Gatsby.js, Bootstrap, TailwindCSS
 - 👨‍💻 Backend : PHP / Laravel, CI, Node.js / Express, Python / Django, graphQL, goLang
-- ⚡ Blockchain: Ethereum, Solidity, Smart Contracts, NFT, Trading, DEX / DEFI 
+- ⚡ Blockchain: Ethereum, Solidity, Smart Contracts, NFT, Trading, DEX / DEFI, Web3.js, ether.js
 - 💬 Database : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
 - 📫 Languages : JavaScript, TypeScript, HTML, CSS, PHP, Python
 
